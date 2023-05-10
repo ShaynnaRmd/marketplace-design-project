@@ -11,4 +11,4 @@ Conception of a design system, and a graphic / visual identity such as :
 
 This also include the creation of several models for the website such as a landingpage, a marketplace and more.
 
-All of this project is conceptualized with the tool Figma
+All of this project is conceptualized with Figma
